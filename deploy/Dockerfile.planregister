@@ -1,0 +1,25 @@
+FROM docker.osgeo.org/geoserver:2.28.0
+
+ARG GEOSERVER_DATA_DIR=/opt/geoserver_data
+ARG STYLES_DIR=/tmp/styles
+ARG WORKSPACE_REGULERINGSPLANER=workspaces/reguleringsplaner
+
+WORKDIR ${GEOSERVER_DATA_DIR}
+
+COPY deploy/entrypoint.sh /
+COPY *.xml .
+COPY ${WORKSPACE_REGULERINGSPLANER} ./${WORKSPACE_REGULERINGSPLANER}
+
+RUN chmod 1777 /tmp \
+    && apt -y update \
+    && apt -y install git gettext \
+    && mkdir -p /tmp/styles \
+    && git clone https://github.com/Arkitektum/styles.ft.dibk.no.git /tmp/styles \
+    && cp -r ${STYLES_DIR}/sld/reguleringsplan/* ${GEOSERVER_DATA_DIR}/${WORKSPACE_REGULERINGSPLANER}/styles \
+    && rm -r ${STYLES_DIR} \
+    && apt clean \
+    && apt autoremove -y \
+    && rm -rf /var/lib/apt/lists/* \
+    && chmod +x /entrypoint.sh
+
+ENTRYPOINT ["/entrypoint.sh"]

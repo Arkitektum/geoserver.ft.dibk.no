@@ -1,0 +1,79 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-6b2f8516:199a4cb68e5:-734f</id>
+  <name>hensynssoner_vn2</name>
+  <mode>SINGLE</mode>
+  <title>Hensynssoner</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5ba43868:199673cde04:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:199998b1c58:561e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:199998b1c58:5620</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:199998b1c58:5622</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:199998b1c58:561c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:199998b1c58:5624</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:199998b1c58:5626</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:199998b1c58:5628</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:199998b1c58:562a</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-6b2f8516:199a4cb68e5:-4773</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999a97ab4a:7f99</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999aad69e3:413a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:199998b1c58:562b</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999e32f4a:7f7f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999ca4f6e:a31</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999e32f4a:7f7d</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999e32f4a:7f7e</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-59271.05078125</minx>
+    <maxx>1105292.125</maxx>
+    <miny>6453116.0</miny>
+    <maxy>7937081.0</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-10-02 12:11:40.661 UTC</dateCreated>
+  <dateModified>2025-10-27 14:45:55.246 UTC</dateModified>
+</layerGroup>

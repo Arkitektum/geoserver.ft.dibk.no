@@ -1,0 +1,17 @@
+<layer>
+  <name>pblmidlbygganleggomrade_vn1</name>
+  <id>LayerInfoImpl-89070f8:19a25a826a1:284b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:1999aad69e3:50e9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-89070f8:19a25a826a1:284a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-10-27 12:54:40.419 UTC</dateCreated>
+  <dateModified>2025-10-28 10:20:11.682 UTC</dateModified>
+</layer>

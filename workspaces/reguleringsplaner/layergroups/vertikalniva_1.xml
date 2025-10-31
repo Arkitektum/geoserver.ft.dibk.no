@@ -1,0 +1,68 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-89070f8:19a2a48fcd0:-7def</id>
+  <name>vertikalniva_1</name>
+  <mode>CONTAINER</mode>
+  <title>Vertikalnivå 1</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5ba43868:199673cde04:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-89070f8:19a25a826a1:fa4</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-89070f8:19a2a48fcd0:-7df4</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-89070f8:19a2a48fcd0:-7df3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-89070f8:19a25a826a1:285f</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-89070f8:19a25a826a1:286e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-89070f8:19a25a826a1:2863</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-89070f8:19a25a826a1:286b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-89070f8:19a2a48fcd0:-7df0</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--5ba43868:199673cde04:-7ff3</id>
+    </style>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-41da681c:1996bae292a:-7e68</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999aad69e3:6857</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999ecf865:2dc9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-6b2f8516:199a43ee908:-5092</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--5ba43868:199673cde04:-7ffb</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-57281.12890625</minx>
+    <maxx>1076652.625</maxx>
+    <miny>3849755.2774072364</miny>
+    <maxy>9330126.130139956</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-10-28 10:17:46.600 UTC</dateCreated>
+  <dateModified>2025-10-30 12:12:45.51 UTC</dateModified>
+</layerGroup>

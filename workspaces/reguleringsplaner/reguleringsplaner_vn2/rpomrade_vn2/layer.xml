@@ -1,0 +1,17 @@
+<layer>
+  <name>rpomrade_vn2</name>
+  <id>LayerInfoImpl-3c51ad53:19995805869:-5cf5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5ba43868:199673cde04:-7ffb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3c51ad53:19995805869:-5cf6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-09-30 07:08:42.368 UTC</dateCreated>
+  <dateModified>2025-10-28 10:12:39.876 UTC</dateModified>
+</layer>

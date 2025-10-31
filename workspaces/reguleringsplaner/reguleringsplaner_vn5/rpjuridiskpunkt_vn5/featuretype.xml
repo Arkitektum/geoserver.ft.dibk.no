@@ -1,0 +1,47 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-89070f8:19a2a48fcd0:-5a2d</id>
+  <name>rpjuridiskpunkt_vn5</name>
+  <nativeName>rpjuridiskpunkt_objektposisjon_mv</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--5ba43868:199673cde04:-7fff</id>
+  </namespace>
+  <title>Juridisk punkt</title>
+  <keywords>
+    <string>features</string>
+    <string>rpjuridiskpunkt_objektposisjon_mv</string>
+  </keywords>
+  <srs>EPSG:25833</srs>
+  <nativeBoundingBox>
+    <minx>225503.37015075347</minx>
+    <maxx>775411.9139707119</maxx>
+    <miny>3849755.2774072364</miny>
+    <maxy>9330126.130139956</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-7.384705769259273</minx>
+    <maxx>37.451936810434496</maxx>
+    <miny>34.75280885695498</miny>
+    <maxy>84.01820313437166</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--1440fbd4:19a25475394:-4e9e</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

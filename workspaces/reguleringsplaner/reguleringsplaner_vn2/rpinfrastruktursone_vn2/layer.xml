@@ -1,0 +1,17 @@
+<layer>
+  <name>rpinfrastruktursone_vn2</name>
+  <id>LayerInfoImpl-3c51ad53:199998b1c58:5626</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:19999ca4f6e:a31</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3c51ad53:199998b1c58:5625</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-09-30 08:19:23.880 UTC</dateCreated>
+  <dateModified>2025-10-27 14:53:08.35 UTC</dateModified>
+</layer>

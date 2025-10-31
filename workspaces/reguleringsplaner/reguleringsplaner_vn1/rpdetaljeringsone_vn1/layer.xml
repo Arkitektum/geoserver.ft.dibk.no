@@ -1,0 +1,17 @@
+<layer>
+  <name>rpdetaljeringsone_vn1</name>
+  <id>LayerInfoImpl-89070f8:19a25a826a1:2854</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:1999aad69e3:413a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-89070f8:19a25a826a1:2853</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-10-27 12:57:37.256 UTC</dateCreated>
+  <dateModified>2025-10-28 10:19:13.916 UTC</dateModified>
+</layer>

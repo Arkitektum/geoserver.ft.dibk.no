@@ -1,0 +1,17 @@
+<layer>
+  <name>rpregulerthoyde_vn2</name>
+  <id>LayerInfoImpl-3c51ad53:1999aad69e3:6856</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:1999aad69e3:6857</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3c51ad53:1999aad69e3:6855</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-10-01 12:00:19.219 UTC</dateCreated>
+  <dateModified>2025-10-28 10:05:10.652 UTC</dateModified>
+</layer>

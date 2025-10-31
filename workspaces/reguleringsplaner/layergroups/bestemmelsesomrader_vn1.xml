@@ -1,0 +1,35 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-89070f8:19a2a48fcd0:-7df3</id>
+  <name>bestemmelsesomrader_vn1</name>
+  <mode>SINGLE</mode>
+  <title>Bestemmelsesområder</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5ba43868:199673cde04:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-89070f8:19a25a826a1:2851</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-89070f8:19a25a826a1:284b</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999aad69e3:50a6</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999aad69e3:50e9</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-44454.72265625</minx>
+    <maxx>561622.0625</maxx>
+    <miny>6457567.5</miny>
+    <maxy>7632452.5</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-10-28 10:09:52.858 UTC</dateCreated>
+</layerGroup>

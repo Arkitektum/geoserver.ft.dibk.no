@@ -1,0 +1,17 @@
+<layer>
+  <name>rpsikringsone_vn2</name>
+  <id>LayerInfoImpl-3c51ad53:199998b1c58:5628</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:19999e32f4a:7f7d</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3c51ad53:199998b1c58:5627</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-09-30 08:19:56.377 UTC</dateCreated>
+  <dateModified>2025-10-27 14:55:51.291 UTC</dateModified>
+</layer>

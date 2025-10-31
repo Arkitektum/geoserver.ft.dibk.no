@@ -1,0 +1,75 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-89070f8:19a25a826a1:2886</id>
+  <name>vertikalniva_2</name>
+  <mode>CONTAINER</mode>
+  <title>Vertikalnivå 2</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5ba43868:199673cde04:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:19995805869:-5cf3</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-6b2f8516:199a4cb68e5:-734f</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-89070f8:19a25a826a1:2897</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-6b2f8516:1999fb0f236:-7ffe</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:1999aad69e3:6856</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:19999ecf865:2dc8</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-6b2f8516:199a43ee908:-5093</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3c51ad53:19995805869:-5cf5</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--5ba43868:199673cde04:-7ff3</id>
+    </style>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-41da681c:1996bae292a:-7e68</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999aad69e3:6857</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999ecf865:2dc9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-6b2f8516:199a43ee908:-5092</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--5ba43868:199673cde04:-7ffb</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-438241.8156218616</minx>
+    <maxx>1484729.4978373286</maxx>
+    <miny>6405121.338203351</miny>
+    <maxy>8018422.113058592</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-10-27 13:40:20.280 UTC</dateCreated>
+  <dateModified>2025-10-28 10:03:38.745 UTC</dateModified>
+</layerGroup>

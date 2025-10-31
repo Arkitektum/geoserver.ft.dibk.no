@@ -1,0 +1,17 @@
+<layer>
+  <name>rpbandleggingsone_vn2</name>
+  <id>LayerInfoImpl-3c51ad53:199998b1c58:5620</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:1999a97ab4a:7f99</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3c51ad53:199998b1c58:561f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-09-30 08:17:53.185 UTC</dateCreated>
+  <dateModified>2025-10-27 14:50:51.589 UTC</dateModified>
+</layer>

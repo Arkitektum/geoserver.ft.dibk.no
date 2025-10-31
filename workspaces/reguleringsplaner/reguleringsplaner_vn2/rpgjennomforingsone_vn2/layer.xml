@@ -1,0 +1,17 @@
+<layer>
+  <name>rpgjennomforingsone_vn2</name>
+  <id>LayerInfoImpl-3c51ad53:199998b1c58:5624</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:19999e32f4a:7f7f</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3c51ad53:199998b1c58:5623</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-09-30 08:18:56.780 UTC</dateCreated>
+  <dateModified>2025-10-27 14:53:54.862 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>rpjuridisklinje_vn4</name>
+  <id>LayerInfoImpl-89070f8:19a2a48fcd0:-5a38</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-41da681c:1996bae292a:-7e68</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-89070f8:19a2a48fcd0:-5a39</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-10-28 11:07:46.467 UTC</dateCreated>
+  <dateModified>2025-10-30 12:23:25.313 UTC</dateModified>
+</layer>

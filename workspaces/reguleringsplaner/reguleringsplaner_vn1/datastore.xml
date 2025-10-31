@@ -18,7 +18,7 @@
     <entry key="reWriteBatchedInserts">false</entry>
     <entry key="host">${DB_HOST}</entry>
     <entry key="Loose bbox">true</entry>
-    <entry key="SSL mode">DISABLE</entry>
+    <entry key="SSL mode">${DB_SSL_MODE}</entry>
     <entry key="Estimated extends">true</entry>
     <entry key="fetch size">1000</entry>
     <entry key="Expose primary keys">false</entry>

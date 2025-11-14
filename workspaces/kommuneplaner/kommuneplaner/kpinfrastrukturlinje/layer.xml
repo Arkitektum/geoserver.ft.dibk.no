@@ -1,0 +1,17 @@
+<layer>
+  <name>kpinfrastrukturlinje</name>
+  <id>LayerInfoImpl-5a2c870b:19a6e47b554:4a17</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3d4db53f:19a7d29092a:-3928</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-5a2c870b:19a6e47b554:4a16</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-11 07:43:54.103 UTC</dateCreated>
+  <dateModified>2025-11-14 09:28:16.248 UTC</dateModified>
+</layer>

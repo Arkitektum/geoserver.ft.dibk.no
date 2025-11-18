@@ -1,0 +1,17 @@
+<layer>
+  <name>rbrekkefolgeomrade_vn4</name>
+  <id>LayerInfoImpl-3d4db53f:19a7d29092a:-38eb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-39d4699a:19a91bb6bd2:-6d83</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3d4db53f:19a7d29092a:-38ec</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-17 09:35:17.549 UTC</dateCreated>
+  <dateModified>2025-11-18 11:35:38.913 UTC</dateModified>
+</layer>

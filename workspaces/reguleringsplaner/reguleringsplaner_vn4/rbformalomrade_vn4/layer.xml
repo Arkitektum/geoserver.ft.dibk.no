@@ -1,0 +1,17 @@
+<layer>
+  <name>rbformalomrade_vn4</name>
+  <id>LayerInfoImpl-3d4db53f:19a7d29092a:-38ff</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-5a2c870b:19a6d874f95:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3d4db53f:19a7d29092a:-3900</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-17 09:27:30.527 UTC</dateCreated>
+  <dateModified>2025-11-18 11:49:31.284 UTC</dateModified>
+</layer>

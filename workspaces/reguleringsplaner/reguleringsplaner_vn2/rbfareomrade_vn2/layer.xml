@@ -1,0 +1,17 @@
+<layer>
+  <name>rbfareomrade_vn2</name>
+  <id>LayerInfoImpl-3d4db53f:19a7d29092a:-390b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-39d4699a:19a91bb6bd2:-6b01</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3d4db53f:19a7d29092a:-390c</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-17 09:17:19.322 UTC</dateCreated>
+  <dateModified>2025-11-18 11:34:18.35 UTC</dateModified>
+</layer>

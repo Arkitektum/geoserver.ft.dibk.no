@@ -33,6 +33,21 @@
     <published type="layer">
       <id>LayerInfoImpl-3c51ad53:199998b1c58:562a</id>
     </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3d4db53f:19a7d29092a:-38e5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3d4db53f:19a7d29092a:-3915</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3d4db53f:19a7d29092a:-390b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3d4db53f:19a7d29092a:-38f9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-3d4db53f:19a7d29092a:-38ef</id>
+    </published>
   </publishables>
   <styles>
     <style>
@@ -59,12 +74,27 @@
     <style>
       <id>StyleInfoImpl-3c51ad53:19999e32f4a:7f7e</id>
     </style>
+    <style>
+      <id>StyleInfoImpl-4af8cc53:19a91541060:-47da</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--75ccf6ad:19a918dbed8:76c8</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-39d4699a:19a91bb6bd2:-6b01</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-39d4699a:19a91bb6bd2:-711f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-39d4699a:19a91bb6bd2:-6d83</id>
+    </style>
   </styles>
   <bounds>
-    <minx>-59271.05078125</minx>
-    <maxx>1105292.125</maxx>
-    <miny>6453116.0</miny>
-    <maxy>7937081.0</maxy>
+    <minx>-93312.60</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
     <crs class="projected">EPSG:25833</crs>
   </bounds>
   <metadata>
@@ -75,5 +105,5 @@
     <logoHeight>0</logoHeight>
   </attribution>
   <dateCreated>2025-10-02 12:11:40.661 UTC</dateCreated>
-  <dateModified>2025-10-27 14:45:55.246 UTC</dateModified>
+  <dateModified>2025-11-18 11:31:45.180 UTC</dateModified>
 </layerGroup>

@@ -1,0 +1,17 @@
+<layer>
+  <name>rbbevaringomrade_vn3</name>
+  <id>LayerInfoImpl-3d4db53f:19a7d29092a:-3913</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--75ccf6ad:19a918dbed8:76c8</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3d4db53f:19a7d29092a:-3914</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-17 09:15:14.536 UTC</dateCreated>
+  <dateModified>2025-11-18 11:34:04.454 UTC</dateModified>
+</layer>

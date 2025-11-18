@@ -1,0 +1,17 @@
+<layer>
+  <name>rbrestriksjonomrade_vn5</name>
+  <id>LayerInfoImpl-3d4db53f:19a7d29092a:-38df</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-4af8cc53:19a91541060:-47da</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3d4db53f:19a7d29092a:-38e0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-17 09:42:37.608 UTC</dateCreated>
+  <dateModified>2025-11-18 11:36:14.162 UTC</dateModified>
+</layer>

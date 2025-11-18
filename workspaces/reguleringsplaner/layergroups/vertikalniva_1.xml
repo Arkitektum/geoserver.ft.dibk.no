@@ -9,8 +9,8 @@
   <internationalTitle/>
   <internationalAbstract/>
   <publishables>
-    <published type="layer">
-      <id>LayerInfoImpl-89070f8:19a25a826a1:fa4</id>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-3d48f172:19a96b257d3:-779b</id>
     </published>
     <published type="layerGroup">
       <id>LayerGroupInfoImpl-89070f8:19a2a48fcd0:-7df4</id>
@@ -35,9 +35,7 @@
     </published>
   </publishables>
   <styles>
-    <style>
-      <id>StyleInfoImpl--5ba43868:199673cde04:-7ff3</id>
-    </style>
+    <style/>
     <style/>
     <style/>
     <style>
@@ -57,12 +55,12 @@
     </style>
   </styles>
   <bounds>
-    <minx>-57281.12890625</minx>
-    <maxx>1076652.625</maxx>
-    <miny>3849755.2774072364</miny>
-    <maxy>9330126.130139956</maxy>
+    <minx>-93312.60</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
     <crs class="projected">EPSG:25833</crs>
   </bounds>
   <dateCreated>2025-10-28 10:17:46.600 UTC</dateCreated>
-  <dateModified>2025-10-30 12:12:45.51 UTC</dateModified>
+  <dateModified>2025-11-18 11:47:49.499 UTC</dateModified>
 </layerGroup>

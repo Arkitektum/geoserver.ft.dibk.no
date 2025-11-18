@@ -1,0 +1,17 @@
+<layer>
+  <name>rbfornyelseomrade_vn1</name>
+  <id>LayerInfoImpl-3d4db53f:19a7d29092a:-38fb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-39d4699a:19a91bb6bd2:-711f</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3d4db53f:19a7d29092a:-38fc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-17 09:28:46.22 UTC</dateCreated>
+  <dateModified>2025-11-18 11:34:42.754 UTC</dateModified>
+</layer>

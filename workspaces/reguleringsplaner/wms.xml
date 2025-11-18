@@ -39,7 +39,7 @@
     <entry key="advancedProjectionHandling">true</entry>
     <entry key="kmlAttr">true</entry>
     <entry key="svgRenderer">Batik</entry>
-    <entry key="MarkFactoryList">WellKnownMarkFactory,QGISMarkFactory,TTFMarkFactory,ShapeMarkFactory,WKTMarkFactory,MeteoMarkFactory,WindBarbsFactory,SVGMarkFactory</entry>
+    <entry key="MarkFactoryList"></entry>
     <entry key="scalehintMapunitsPixel">false</entry>
   </metadata>
   <srs>

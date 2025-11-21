@@ -1,0 +1,17 @@
+<layer>
+  <name>rpfaresone_vn5</name>
+  <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f71</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:199998b1c58:562b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5528e0eb:19a986790f5:-7f72</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-18 20:03:46.335 UTC</dateCreated>
+  <dateModified>2025-11-18 20:14:30.851 UTC</dateModified>
+</layer>

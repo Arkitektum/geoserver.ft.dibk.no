@@ -1,0 +1,17 @@
+<layer>
+  <name>kdpdetaljeringsone</name>
+  <id>LayerInfoImpl-36fc9159:19aa1201e68:-7fa5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7fcc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-36fc9159:19aa1201e68:-7fa6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-20 14:32:43.990 UTC</dateCreated>
+  <dateModified>2025-11-20 14:42:10.556 UTC</dateModified>
+</layer>

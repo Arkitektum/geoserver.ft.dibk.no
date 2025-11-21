@@ -1,0 +1,17 @@
+<layer>
+  <name>kdpbandleggingsone</name>
+  <id>LayerInfoImpl-36fc9159:19aa1201e68:-7fa9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7fd0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-36fc9159:19aa1201e68:-7faa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-20 14:31:24.313 UTC</dateCreated>
+  <dateModified>2025-11-20 14:41:49.190 UTC</dateModified>
+</layer>

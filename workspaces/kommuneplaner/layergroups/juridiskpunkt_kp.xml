@@ -1,0 +1,30 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-36fc9159:19aa1201e68:-7fff</id>
+  <name>juridiskpunkt_kp</name>
+  <mode>SINGLE</mode>
+  <title>Juridisk punkt</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-5a2c870b:19a6e47b554:49fe</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-5a2c870b:19a6e47b554:4a25</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-1412318e:19a9b3da9c0:-7fc0</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-49419.859375</minx>
+    <maxx>686423.4375</maxx>
+    <miny>6460982.0</miny>
+    <maxy>7779402.5</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-20 11:59:47.742 UTC</dateCreated>
+  <dateModified>2025-11-20 14:49:56.453 UTC</dateModified>
+</layerGroup>

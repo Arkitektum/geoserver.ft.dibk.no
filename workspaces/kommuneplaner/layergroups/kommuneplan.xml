@@ -1,0 +1,52 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-36fc9159:19aa1201e68:-7f84</id>
+  <name>kommuneplan</name>
+  <mode>CONTAINER</mode>
+  <title>Kommuneplan</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-5a2c870b:19a6e47b554:49fe</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:172b</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-4af79348:19aa1135741:-7ffe</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-36fc9159:19aa1201e68:-8000</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-36fc9159:19aa1201e68:-7fff</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5a2c870b:19a6e47b554:4a03</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-5a2c870b:19a6e47b554:4a1b</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-5a2c870b:19a6e47b554:4a2a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--737b1c86:19a95eb7da5:-7ff2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-99551.2109375</minx>
+    <maxx>1115139.0</maxx>
+    <miny>6426048.0</miny>
+    <maxy>7962288.0</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-20 14:52:01.812 UTC</dateCreated>
+  <dateModified>2025-11-20 14:56:38.403 UTC</dateModified>
+</layerGroup>

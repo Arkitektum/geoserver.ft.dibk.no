@@ -1,0 +1,52 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-4fa85354:19aa1c5288f:-8000</id>
+  <name>kommunedelplan</name>
+  <mode>CONTAINER</mode>
+  <title>Kommunedelplan</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-5a2c870b:19a6e47b554:49fe</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-36fc9159:19aa1201e68:-7f88</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-36fc9159:19aa1201e68:-7f87</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-36fc9159:19aa1201e68:-7f86</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-36fc9159:19aa1201e68:-7f85</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-36fc9159:19aa1201e68:-7f99</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-36fc9159:19aa1201e68:-7f97</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-5a2c870b:19a6e47b554:4a2a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--737b1c86:19a95eb7da5:-7ff2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-59128.08203125</minx>
+    <maxx>1099688.875</maxx>
+    <miny>6456668.5</miny>
+    <maxy>7867996.0</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-20 14:57:24.111 UTC</dateCreated>
+  <dateModified>2025-11-20 14:57:48.289 UTC</dateModified>
+</layerGroup>

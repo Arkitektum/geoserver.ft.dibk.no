@@ -1,0 +1,17 @@
+<layer>
+  <name>kdpomrade</name>
+  <id>LayerInfoImpl-36fc9159:19aa1201e68:-7f99</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-5a2c870b:19a6e47b554:4a2a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-36fc9159:19aa1201e68:-7f9a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-20 14:35:18.991 UTC</dateCreated>
+  <dateModified>2025-11-20 14:43:19.666 UTC</dateModified>
+</layer>

@@ -1,0 +1,64 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f06</id>
+  <name>vertikalniva_1</name>
+  <mode>CONTAINER</mode>
+  <title>Vertikalnivå 1</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5528e0eb:19a986790f5:-8000</id>
+  </workspace>
+  <publishables>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f15</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f0b</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f10</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f5b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f33</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f51</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f3d</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f47</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-41da681c:1996bae292a:-7e68</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999aad69e3:6857</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999ecf865:2dc9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-6b2f8516:199a43ee908:-5092</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-37b18cc6:14d5d036d48:-8000</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-461543.5018681892</minx>
+    <maxx>4768022.873339792</maxx>
+    <miny>3437365.009211175</miny>
+    <maxy>8431410.592488995</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-18 20:22:18.927 UTC</dateCreated>
+  <dateModified>2025-11-18 11:47:49.499 UTC</dateModified>
+</layerGroup>

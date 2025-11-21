@@ -1,0 +1,17 @@
+<layer>
+  <name>rpbestemmelseomrade_vn5</name>
+  <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f85</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:1999aad69e3:50a6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5528e0eb:19a986790f5:-7f86</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-18 20:03:45.350 UTC</dateCreated>
+  <dateModified>2025-11-18 20:13:55.929 UTC</dateModified>
+</layer>

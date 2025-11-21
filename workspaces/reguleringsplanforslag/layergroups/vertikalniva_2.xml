@@ -1,0 +1,71 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f05</id>
+  <name>vertikalniva_2</name>
+  <mode>CONTAINER</mode>
+  <title>Vertikalnivå 2</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5528e0eb:19a986790f5:-8000</id>
+  </workspace>
+  <publishables>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f14</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f0a</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f0f</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f59</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f31</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f4f</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f3b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f45</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-41da681c:1996bae292a:-7e68</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999aad69e3:6857</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999ecf865:2dc9</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-6b2f8516:199a43ee908:-5092</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--5ba43868:199673cde04:-7ffb</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-438241.8156218616</minx>
+    <maxx>1484729.4978373286</maxx>
+    <miny>6405121.338203351</miny>
+    <maxy>8018422.113058592</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-18 20:22:18.953 UTC</dateCreated>
+  <dateModified>2025-11-10 14:21:55.981 UTC</dateModified>
+</layerGroup>

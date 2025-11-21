@@ -1,0 +1,17 @@
+<layer>
+  <name>kdparealbrukomrade</name>
+  <id>LayerInfoImpl-36fc9159:19aa1201e68:-7fad</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-5a2c870b:19a6e47b554:4a2c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-36fc9159:19aa1201e68:-7fae</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-20 14:30:07.868 UTC</dateCreated>
+  <dateModified>2025-11-20 14:41:29.619 UTC</dateModified>
+</layer>

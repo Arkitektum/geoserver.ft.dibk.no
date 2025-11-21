@@ -1,0 +1,100 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f09</id>
+  <name>hensynssoner_vn3</name>
+  <mode>SINGLE</mode>
+  <title>Hensynssoner</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5528e0eb:19a986790f5:-8000</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7fa7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f93</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f7f</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f75</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f6b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f61</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f25</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f1b</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7fb1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7fe3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7fd9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7fc5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7fbb</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-6b2f8516:199a4cb68e5:-4773</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999a97ab4a:7f99</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:1999aad69e3:413a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:199998b1c58:562b</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999e32f4a:7f7f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999ca4f6e:a31</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999e32f4a:7f7d</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3c51ad53:19999e32f4a:7f7e</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-4af8cc53:19a91541060:-47da</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--75ccf6ad:19a918dbed8:76c8</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-39d4699a:19a91bb6bd2:-6b01</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-39d4699a:19a91bb6bd2:-711f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-39d4699a:19a91bb6bd2:-6d83</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-51688.078125</minx>
+    <maxx>813982.125</maxx>
+    <miny>3849755.2774072364</miny>
+    <maxy>9330126.130139956</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-18 20:22:18.868 UTC</dateCreated>
+  <dateModified>2025-11-18 11:38:05.890 UTC</dateModified>
+</layerGroup>

@@ -1,0 +1,17 @@
+<layer>
+  <name>kdpjuridisklinje</name>
+  <id>LayerInfoImpl-36fc9159:19aa1201e68:-7f9b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3d4db53f:19a7d29092a:-3936</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-36fc9159:19aa1201e68:-7f9c</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-20 14:34:52.631 UTC</dateCreated>
+  <dateModified>2025-11-20 14:42:59.843 UTC</dateModified>
+</layer>

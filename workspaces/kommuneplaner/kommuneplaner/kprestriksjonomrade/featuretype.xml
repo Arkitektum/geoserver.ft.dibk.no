@@ -5,7 +5,7 @@
   <namespace>
     <id>NamespaceInfoImpl-5a2c870b:19a6e47b554:49ff</id>
   </namespace>
-  <title>Restriksjoner</title>
+  <title>Restriksjon</title>
   <keywords>
     <string>features</string>
     <string>kprestriksjonomrade</string>
@@ -48,6 +48,7 @@
   </latLonBoundingBox>
   <projectionPolicy>FORCE_DECLARED</projectionPolicy>
   <enabled>true</enabled>
+  <advertised>false</advertised>
   <store class="dataStore">
     <id>DataStoreInfoImpl-5a2c870b:19a6e47b554:4a01</id>
   </store>

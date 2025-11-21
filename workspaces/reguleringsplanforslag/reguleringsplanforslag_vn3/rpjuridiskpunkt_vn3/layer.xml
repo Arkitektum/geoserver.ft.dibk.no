@@ -1,0 +1,17 @@
+<layer>
+  <name>rpjuridiskpunkt_vn3</name>
+  <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f4d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3c51ad53:19999ecf865:2dc9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5528e0eb:19a986790f5:-7f4e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-18 20:03:48.145 UTC</dateCreated>
+  <dateModified>2025-11-18 20:15:27.585 UTC</dateModified>
+</layer>

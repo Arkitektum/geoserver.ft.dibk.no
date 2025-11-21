@@ -1,0 +1,33 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f14</id>
+  <name>arealformal_vn2</name>
+  <mode>SINGLE</mode>
+  <title>Arealformål</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5528e0eb:19a986790f5:-8000</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7fd1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f9f</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-5a2c870b:19a6d874f95:-7ffe</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--5ba43868:199673cde04:-7ff3</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-74487.640625</minx>
+    <maxx>1105318.375</maxx>
+    <miny>6450846.5</miny>
+    <maxy>7937452.5</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-18 20:22:18.633 UTC</dateCreated>
+</layerGroup>

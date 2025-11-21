@@ -1,0 +1,17 @@
+<layer>
+  <name>kdpsamferdselpunkt</name>
+  <id>LayerInfoImpl-36fc9159:19aa1201e68:-7f8d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1412318e:19a9b3da9c0:-7fc0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-36fc9159:19aa1201e68:-7f8e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-20 14:38:24.473 UTC</dateCreated>
+  <dateModified>2025-11-20 14:44:15.656 UTC</dateModified>
+</layer>

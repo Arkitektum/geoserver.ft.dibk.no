@@ -1,0 +1,17 @@
+<layer>
+  <name>rppaskrift_vn5</name>
+  <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f35</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-6b2f8516:199a43ee908:-5092</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--5528e0eb:19a986790f5:-7f36</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-18 20:03:49.269 UTC</dateCreated>
+  <dateModified>2025-11-18 20:15:54.512 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>kdprestriksjonomrade</name>
+  <id>LayerInfoImpl-36fc9159:19aa1201e68:-7f93</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1412318e:19a9b3da9c0:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-36fc9159:19aa1201e68:-7f94</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-20 14:36:50.495 UTC</dateCreated>
+  <dateModified>2025-11-20 14:58:14.749 UTC</dateModified>
+</layer>

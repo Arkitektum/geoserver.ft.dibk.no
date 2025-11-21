@@ -3,6 +3,7 @@ FROM docker.osgeo.org/geoserver:2.28.0
 ARG GEOSERVER_DATA_DIR=/opt/geoserver_data
 ARG STYLES_DIR=/tmp/styles
 ARG WORKSPACE_REGULERINGSPLANER=workspaces/reguleringsplaner
+ARG WORKSPACE_REGULERINGSPLANFORSLAG=workspaces/reguleringsplanforslag
 ARG STYLES_REGULERINGSPLANER=styles/reguleringsplaner
 
 WORKDIR ${GEOSERVER_DATA_DIR}
@@ -11,6 +12,7 @@ COPY deploy/entrypoint.sh /
 COPY *.xml .
 COPY tomcat/web.xml /usr/local/tomcat/webapps/geoserver/WEB-INF/
 COPY ${WORKSPACE_REGULERINGSPLANER} ./${WORKSPACE_REGULERINGSPLANER}
+COPY ${WORKSPACE_REGULERINGSPLANFORSLAG} ./${WORKSPACE_REGULERINGSPLANFORSLAG}
 COPY ${STYLES_REGULERINGSPLANER} ./styles/.
 
 RUN chmod 1777 /tmp \

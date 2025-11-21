@@ -18,7 +18,7 @@
     <entry key="reWriteBatchedInserts">false</entry>
     <entry key="host">${DB_HOST}</entry>
     <entry key="Loose bbox">true</entry>
-    <entry key="SSL mode">DISABLE</entry>
+    <entry key="SSL mode">${DB_SSL_MODE}</entry>
     <entry key="Estimated extends">true</entry>
     <entry key="fetch size">1000</entry>
     <entry key="Expose primary keys">false</entry>
@@ -28,7 +28,7 @@
     <entry key="create database">false</entry>
     <entry key="Method used to simplify geometries">FAST</entry>
     <entry key="port">5432</entry>
-    <entry key="passwd">crypt1:9Te36SHuXN/v2bIc6heY/+qKpTl5Q7fb</entry>
+    <entry key="passwd">${DB_PASSWORD}</entry>
     <entry key="min connections">1</entry>
     <entry key="dbtype">postgis</entry>
     <entry key="namespace">http://dibk.no/kommuneplaner</entry>

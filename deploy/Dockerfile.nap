@@ -2,8 +2,10 @@ FROM docker.osgeo.org/geoserver:2.28.0
 
 ARG GEOSERVER_DATA_DIR=/opt/geoserver_data
 ARG STYLES_DIR=/tmp/styles
+ARG WORKSPACE_KOMMUNEPLANER=workspaces/kommuneplaner
 ARG WORKSPACE_REGULERINGSPLANER=workspaces/reguleringsplaner
 ARG WORKSPACE_REGULERINGSPLANFORSLAG=workspaces/reguleringsplanforslag
+ARG STYLES_KOMMUNEPLANER=styles/kommuneplaner
 ARG STYLES_REGULERINGSPLANER=styles/reguleringsplaner
 
 WORKDIR ${GEOSERVER_DATA_DIR}
@@ -11,8 +13,10 @@ WORKDIR ${GEOSERVER_DATA_DIR}
 COPY deploy/entrypoint.sh /
 COPY *.xml .
 COPY tomcat/web.xml /usr/local/tomcat/webapps/geoserver/WEB-INF/
+COPY ${WORKSPACE_KOMMUNEPLANER} ./${WORKSPACE_KOMMUNEPLANER}
 COPY ${WORKSPACE_REGULERINGSPLANER} ./${WORKSPACE_REGULERINGSPLANER}
 COPY ${WORKSPACE_REGULERINGSPLANFORSLAG} ./${WORKSPACE_REGULERINGSPLANFORSLAG}
+COPY ${STYLES_KOMMUNEPLANER} ./styles/.
 COPY ${STYLES_REGULERINGSPLANER} ./styles/.
 
 RUN chmod 1777 /tmp \
@@ -21,6 +25,7 @@ RUN chmod 1777 /tmp \
     && mkdir -p /tmp/styles \
     && git clone https://github.com/Arkitektum/styles.ft.dibk.no.git /tmp/styles \
     && cp -r ${STYLES_DIR}/sld/reguleringsplan ${GEOSERVER_DATA_DIR}/styles \
+    && cp -r ${STYLES_DIR}/sld/kommuneplan ${GEOSERVER_DATA_DIR}/styles \    
     && rm -r ${STYLES_DIR} \
     && apt clean \
     && apt autoremove -y \

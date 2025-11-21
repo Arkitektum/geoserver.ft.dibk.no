@@ -89,10 +89,10 @@
     </style>
   </styles>
   <bounds>
-    <minx>-59271.05078125</minx>
-    <maxx>1105292.125</maxx>
-    <miny>6453116.0</miny>
-    <maxy>7937081.0</maxy>
+    <minx>-93312.60</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
     <crs class="projected">EPSG:25833</crs>
   </bounds>
   <metadata>

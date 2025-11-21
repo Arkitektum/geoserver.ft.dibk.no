@@ -53,10 +53,10 @@
     </style>
   </styles>
   <bounds>
-    <minx>-438241.8156218616</minx>
-    <maxx>1484729.4978373286</maxx>
-    <miny>6405121.338203351</miny>
-    <maxy>8018422.113058592</maxy>
+    <minx>-93312.60</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
     <crs class="projected">EPSG:25833</crs>
   </bounds>
   <metadata>

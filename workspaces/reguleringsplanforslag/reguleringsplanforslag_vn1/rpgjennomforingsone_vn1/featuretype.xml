@@ -12,7 +12,7 @@
   </keywords>
   <srs>EPSG:25833</srs>
   <nativeBoundingBox>
-    <minx>-93312.6</minx>
+    <minx>-93312.60</minx>
     <maxx>1073725.49</maxx>
     <miny>6470747.02</miny>
     <maxy>7969060.11</maxy>

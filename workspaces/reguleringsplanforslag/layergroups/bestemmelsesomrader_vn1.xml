@@ -23,10 +23,10 @@
     </style>
   </styles>
   <bounds>
-    <minx>-44454.72265625</minx>
-    <maxx>561622.0625</maxx>
-    <miny>6457567.5</miny>
-    <maxy>7632452.5</maxy>
+    <minx>-93312.60</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
     <crs class="projected">EPSG:25833</crs>
   </bounds>
   <dateCreated>2025-11-18 20:22:18.705 UTC</dateCreated>

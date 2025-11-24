@@ -1,0 +1,35 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-391b1326:19ab5190536:-7fa4</id>
+  <name>arealformal_kdp</name>
+  <mode>SINGLE</mode>
+  <title>Arealformål</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-391b1326:19ab5190536:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fcb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fc9</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-5a2c870b:19a6e47b554:4a2c</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-5a2c870b:19a6e47b554:4a2b</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-93312.6</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-24 10:17:43.639 UTC</dateCreated>
+</layerGroup>

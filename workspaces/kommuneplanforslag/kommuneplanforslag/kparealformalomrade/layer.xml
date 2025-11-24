@@ -1,0 +1,17 @@
+<layer>
+  <name>kparealformalomrade</name>
+  <id>LayerInfoImpl-391b1326:19ab5190536:-7ff1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-5a2c870b:19a6e47b554:4a2b</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-391b1326:19ab5190536:-7ff2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-24 09:56:07.347 UTC</dateCreated>
+  <dateModified>2025-11-24 10:10:27.902 UTC</dateModified>
+</layer>

@@ -1,0 +1,51 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-391b1326:19ab5190536:-7f9d</id>
+  <name>kommuneplanforslag</name>
+  <mode>CONTAINER</mode>
+  <title>Kommuneplanforslag</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-391b1326:19ab5190536:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-391b1326:19ab5190536:-7fa5</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-391b1326:19ab5190536:-7fa3</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-391b1326:19ab5190536:-7fa1</id>
+    </published>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl-391b1326:19ab5190536:-7f9f</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fdf</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fdd</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+    <style/>
+    <style>
+      <id>StyleInfoImpl-5a2c870b:19a6e47b554:4a2a</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--737b1c86:19a95eb7da5:-7ff2</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-93312.6</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-24 10:30:54.327 UTC</dateCreated>
+</layerGroup>

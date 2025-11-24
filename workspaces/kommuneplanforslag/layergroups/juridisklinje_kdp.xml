@@ -1,0 +1,47 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-391b1326:19ab5190536:-7fa0</id>
+  <name>juridisklinje_kdp</name>
+  <mode>SINGLE</mode>
+  <title>Juridisk linje</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-391b1326:19ab5190536:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fb9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fb3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fbd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fad</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-3936</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-3939</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-3928</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-391d</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-93312.6</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-24 10:27:47.303 UTC</dateCreated>
+</layerGroup>

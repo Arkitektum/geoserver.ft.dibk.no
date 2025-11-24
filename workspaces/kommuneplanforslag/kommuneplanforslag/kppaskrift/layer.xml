@@ -1,0 +1,17 @@
+<layer>
+  <name>kppaskrift</name>
+  <id>LayerInfoImpl-391b1326:19ab5190536:-7fdd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--737b1c86:19a95eb7da5:-7ff2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-391b1326:19ab5190536:-7fde</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-24 09:56:08.211 UTC</dateCreated>
+  <dateModified>2025-11-24 10:12:41.421 UTC</dateModified>
+</layer>

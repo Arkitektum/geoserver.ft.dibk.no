@@ -1,0 +1,17 @@
+<layer>
+  <name>kdpregulerthoyde</name>
+  <id>LayerInfoImpl-391b1326:19ab5190536:-7fb3</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3d4db53f:19a7d29092a:-3939</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-391b1326:19ab5190536:-7fb4</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-24 10:09:26.177 UTC</dateCreated>
+  <dateModified>2025-11-24 10:12:49.485 UTC</dateModified>
+</layer>

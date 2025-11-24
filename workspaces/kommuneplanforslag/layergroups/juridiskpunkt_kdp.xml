@@ -1,0 +1,29 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-391b1326:19ab5190536:-7f9e</id>
+  <name>juridiskpunkt_kdp</name>
+  <mode>SINGLE</mode>
+  <title>Juridisk punkt</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-391b1326:19ab5190536:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fab</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-1412318e:19a9b3da9c0:-7fc0</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-93312.6</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-24 10:29:21.191 UTC</dateCreated>
+</layerGroup>

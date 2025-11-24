@@ -1,0 +1,17 @@
+<layer>
+  <name>kpbestemmelseomrade</name>
+  <id>LayerInfoImpl-391b1326:19ab5190536:-7fed</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-36fc9159:19aa1201e68:-7ff5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-391b1326:19ab5190536:-7fee</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-24 09:56:07.531 UTC</dateCreated>
+  <dateModified>2025-11-24 10:10:47.966 UTC</dateModified>
+</layer>

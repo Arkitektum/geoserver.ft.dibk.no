@@ -1,0 +1,89 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-391b1326:19ab5190536:-7fa2</id>
+  <name>hensynssone-bestemmelsesomrade_kdp</name>
+  <mode>SINGLE</mode>
+  <title>Hensynssone/bestemmelsesområde</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-391b1326:19ab5190536:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fcd</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fc7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fc3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fc1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fbf</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fbb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fa9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fa7</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fc5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7fb1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-391b1326:19ab5190536:-7faf</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7fd4</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7fd0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7fcc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7ffb</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7fde</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7ff5</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7fef</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-36fc9159:19aa1201e68:-7ff5</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-1412318e:19a9b3da9c0:-7ffe</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-1412318e:19a9b3da9c0:-7ff1</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-93312.6</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-11-24 10:25:25.995 UTC</dateCreated>
+</layerGroup>

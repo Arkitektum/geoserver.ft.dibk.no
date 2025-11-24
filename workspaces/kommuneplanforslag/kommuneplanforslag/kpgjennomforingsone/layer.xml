@@ -1,0 +1,17 @@
+<layer>
+  <name>kpgjennomforingsone</name>
+  <id>LayerInfoImpl-391b1326:19ab5190536:-7fe7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-3d4db53f:19a7d29092a:-7fde</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-391b1326:19ab5190536:-7fe8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-11-24 09:56:07.804 UTC</dateCreated>
+  <dateModified>2025-11-24 10:11:24.785 UTC</dateModified>
+</layer>

@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--34781fbf:19ae3442900:-7ff5</id>
+  <name>rpomrade_pi_vn4</name>
+  <nativeName>rpomrade_omrade_pi_mv</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--5528e0eb:19a986790f5:-7fff</id>
+  </namespace>
+  <title>Planområde (planlegging igangsatt)</title>
+  <keywords>
+    <string>features</string>
+    <string>rpomrade_omrade_pi_mv</string>
+  </keywords>
+  <srs>EPSG:25833</srs>
+  <nativeBoundingBox>
+    <minx>-93312.6</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>4.94538</minx>
+    <maxx>57.979522</maxx>
+    <miny>31.064319</miny>
+    <maxy>71.134022</maxy>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <advertised>false</advertised>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--5528e0eb:19a986790f5:-7ffa</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

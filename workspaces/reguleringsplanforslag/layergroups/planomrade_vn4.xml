@@ -1,0 +1,35 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--34781fbf:19ae3442900:-7fec</id>
+  <name>planomrade_vn4</name>
+  <mode>SINGLE</mode>
+  <title>Planområde</title>
+  <workspace>
+    <id>WorkspaceInfoImpl--5528e0eb:19a986790f5:-8000</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f41</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--34781fbf:19ae3442900:-7ff4</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--5ba43868:199673cde04:-7ffb</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--34781fbf:19ae3442900:-7ff1</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-93312.6</minx>
+    <maxx>1073725.49</maxx>
+    <miny>6470747.02</miny>
+    <maxy>7969060.11</maxy>
+    <crs class="projected">EPSG:25833</crs>
+  </bounds>
+  <dateCreated>2025-12-03 09:13:15.582 UTC</dateCreated>
+</layerGroup>

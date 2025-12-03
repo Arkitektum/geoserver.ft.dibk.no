@@ -6,6 +6,8 @@
   <workspace>
     <id>WorkspaceInfoImpl--5528e0eb:19a986790f5:-8000</id>
   </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
   <publishables>
     <published type="layerGroup">
       <id>LayerGroupInfoImpl--5528e0eb:19a986790f5:-7f12</id>
@@ -28,17 +30,15 @@
     <published type="layer">
       <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f37</id>
     </published>
-    <published type="layer">
-      <id>LayerInfoImpl--5528e0eb:19a986790f5:-7f41</id>
+    <published type="layerGroup">
+      <id>LayerGroupInfoImpl--34781fbf:19ae3442900:-7fec</id>
     </published>
   </publishables>
   <styles>
     <style/>
     <style/>
     <style/>
-    <style>
-      <id>StyleInfoImpl-37b18cc6:14d5d036d48:-8000</id>
-    </style>
+    <style/>
     <style>
       <id>StyleInfoImpl-3c51ad53:1999aad69e3:6857</id>
     </style>
@@ -48,17 +48,15 @@
     <style>
       <id>StyleInfoImpl-6b2f8516:199a43ee908:-5092</id>
     </style>
-    <style>
-      <id>StyleInfoImpl--5ba43868:199673cde04:-7ffb</id>
-    </style>
+    <style/>
   </styles>
   <bounds>
-    <minx>-93312.60</minx>
+    <minx>-93312.6</minx>
     <maxx>1073725.49</maxx>
     <miny>6470747.02</miny>
     <maxy>7969060.11</maxy>
     <crs class="projected">EPSG:25833</crs>
   </bounds>
   <dateCreated>2025-11-18 20:22:18.992 UTC</dateCreated>
-  <dateModified>2025-11-18 11:48:26.890 UTC</dateModified>
+  <dateModified>2025-12-03 09:17:20.142 UTC</dateModified>
 </layerGroup>
